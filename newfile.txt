@@ -1,1 +1,2 @@
-This is my first Git Work
+This is my first Git Work (from local to repository)
+This work is from repository to local.
